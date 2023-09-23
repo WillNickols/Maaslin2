@@ -37,3 +37,16 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Other
+Maaslin2Lite/R/.DS_Store
+inst/.DS_Store
+Maaslin2Lite/.DS_Store
+R/.DS_Store
+tests/.DS_Store
+R/output/.DS_Store
+Maaslin2Lite/.Rbuildignore
+Maaslin2Lite/*
+R/output/*
+R/Blueberry_genus_table.tsv
+R/Blueberry_metadata.tsv
